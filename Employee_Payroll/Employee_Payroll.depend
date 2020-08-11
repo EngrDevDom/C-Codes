@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1582747418 source:c:\users\dominic\desktop\skills\programming\c++\practice_programs\employee_payroll\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+

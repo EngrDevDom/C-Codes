@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1580974696 source:c:\users\dominic\desktop\skills\programming\c++\practice_programs\extern_storage_class\main.cpp
+	<iostream>
+
+1580975367 source:c:\users\dominic\desktop\skills\programming\c++\practice_programs\extern_storage_class\src\write.cpp
+	<iostream>
+
